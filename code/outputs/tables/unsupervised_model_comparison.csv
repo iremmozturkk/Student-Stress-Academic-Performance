@@ -1,0 +1,4 @@
+Method,Clusters,Silhouette,Noise Detected,Interpretability
+K-Means,3,0.525996626204389,No,Moderate
+Hierarchical,3,0.5284383064827314,No,High
+DBSCAN,7,0.9999999983110944,Yes (3%),Low
